@@ -1,0 +1,3 @@
+SANITY_VERSION 1
+TMPDIR /home/stzn/fsl-release-bsp/build_imx6ul_fb/tmp
+SSTATE_DIR /home/stzn/fsl-release-bsp/build_imx6ul_fb/sstate-cache
